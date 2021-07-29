@@ -1,5 +1,3 @@
-# 마크다운
-> 어쩌구저쩌구
-# 자바
+# [마크다운 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
-# 어쩌구저쩌구
+[마크다운 문법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
